@@ -1,8 +1,3 @@
-Perfecto 👌 — entonces este **README.md** será para tu **segundo repositorio** (el del proyecto RAG con OpenAI y Pinecone), cumpliendo exactamente con lo que pide el laboratorio.
-Ya está adaptado a **tu estructura de carpetas, tus scripts y dependencias**.
-
----
-
 # 📘 Retrieval-Augmented Generation (RAG) with OpenAI & Pinecone
 
 **Autor:** Geronimo
@@ -224,7 +219,3 @@ Salida esperada:
 * [Pinecone Python SDK](https://github.com/pinecone-io/pinecone-python-client)
 * Inspirado en el laboratorio:
   **"Introduction to Creating RAGs with OpenAI"**
-
----
-
-¿Quieres que te genere **el README para el primer repositorio** (el del “Basic LangChain LLM Chain Tutorial”) también, con la misma estructura profesional pero más simple?
